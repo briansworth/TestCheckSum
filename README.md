@@ -11,6 +11,6 @@ After download:
  2. Accept EULA
  3. Export to folder C:\powershell
 
- The script will no work
+The script will now work.
 
- Alternatively you can edit the function and point the Set-Alias command to the path correct path.
+Alternatively you can edit the function and point the Set-Alias command to the path correct path.
