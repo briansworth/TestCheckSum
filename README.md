@@ -7,9 +7,9 @@ http://download.microsoft.com/download/c/f/4/cf454ae0-a4bb-4123-8333-a1b6737712f
 
 # fciv.exe Location
 After download:
- Run
- Accept EULA
- Export to folder C:\powershell
+ 1. Run
+ 2. Accept EULA
+ 3. Export to folder C:\powershell
 
  The script will no work
 
