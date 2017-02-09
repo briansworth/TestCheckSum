@@ -27,7 +27,7 @@ function Test-CheckSum {
             ValueFromPipelineByPropertyName=$true
         )]
         [ValidateScript({
-            Test-Path -Path $path -Type Leaf
+            Test-Path -Path $_ -Type Leaf
         })]
         [String]$path,
 
